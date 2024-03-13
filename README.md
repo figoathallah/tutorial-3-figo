@@ -27,3 +27,13 @@ Tutorial 3 Game Development
     -   **walk_right**: Animasi yang dimainkan ketika player berjalan ke kanan. Untuk kondisi jika player berjalan/menengok ke kiri, dilakukan sebuah _horizontal flip_, cara aktivasinya melalui sebuah boolean check yang akan true apabila `velocity.x` kita kurang dari 0, alias gerakan kita menuju ke kiri.
     -   **jump**: Animasi yang dimainkan ketika player melompat dan akan otomatis berhenti apabila kita sudah mulai jatuh.
     -   **crouch**: Animasi yang dimainkan ketika player berjongkok.
+
+## Latihan Mandiri Tutorial 5: Membuat dan Menambah Variasi Aset
+
+Karena keterbatasan waktu yang dipakai untuk fokus ke Individual Game Jam saya, maka dengan berat hati saya menyampaikan bahwa tidak semua harapan latihan mandiri tuntas sampai akhir. Namun, saya telah mencantumkan beberapa hal, yaitu:
+
+SFX dari berbagai macam aset free di itch.io:
+
+-   Jump: (https://simon-develop.itch.io/jump-sound-100-free)
+-   Footsteps: (https://dryoma.itch.io/footsteps-sounds)
+-   Dash: buatan sendiri di Audacity
